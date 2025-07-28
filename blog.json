@@ -1,0 +1,18 @@
+{
+  "devBlogEntries": [
+    {
+    "id": "1",
+    "title": "My First Blog Post",
+    "author": "Connor Moore",
+    "date": "2025-07-23",
+    "content": "sample blog post!",
+    "tags": ["webdev", "javascript", "html"]
+  },
+  {
+    "id": "2",
+    "title": "Understanding Fetch API",
+    "author": "Connor Moore",
+    "date": "2025-07-23",
+    "content": "A deep dive into the JavaScript Fetch API for asynchronous data loading.",
+    "tags": ["javascript", "api", "frontend"]
+  }
